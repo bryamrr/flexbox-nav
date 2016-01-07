@@ -1,0 +1,27 @@
+body {
+  font-family: "Helvetica Neue";
+  font-size: 20px;
+  max-width: 1366px;
+  margin: 0;
+}
+header {
+  text-align: center;
+}
+header img {
+  margin-top: 20px;
+  width: 250px;
+}
+nav ul {
+  padding: 0 20px;
+  margin: 0;
+}
+nav li {
+  cursor: pointer;
+  list-style-type: none;
+  margin: 10px 0;
+  padding-bottom: 3px;
+  border-bottom: 1px solid gray;
+}
+nav li:hover {
+  color: #E50914;
+}
