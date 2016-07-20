@@ -1,2 +1,3 @@
-# flexbox-nav
-Responsive navigation using flexbox
+# Flexbox header & nav
+
+Responsive header & nav using flexbox layout technique
